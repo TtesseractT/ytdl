@@ -3,10 +3,20 @@ Youtube Downloader
 
 ## Installation
 
-### Option 1. One click easy installation
-<a href="https://github.com/TtesseractT/setup.bat" download>
+### Option 1. One-click Easy Installation
+
+You can easily install and set up this script with one click using the provided batch file:
+
+<a href="https://github.com/TtesseractT/ytdl/setup.bat" download>
   <img src="https://img.shields.io/badge/.bat-download-blue?style=flat-square&logo=windows" alt="Download .bat">
 </a>
+
+1. Click the "Download .bat" button above.
+2. Run the `setup.bat` file.
+3. Follow the on-screen instructions to complete the installation.
+
+This will automate the installation of Python, required packages, and set up the environment for running the script.
+
 
 # YouTube Video and Audio Downloader
 
