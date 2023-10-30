@@ -7,7 +7,10 @@ Youtube Downloader
 
 You can easily install and set up this script with one click using the provided batch file:
 
-[![Download .bat](https://img.shields.io/badge/.bat-download-blue?style=flat-square&logo=windows)](https://github.com/TtesseractT/ytdl/raw/main/setup.bat)
+<a href="https://github.com/TtesseractT/ytdl/raw/main/setup.bat" download>
+    <img src="https://img.shields.io/badge/.bat-download-blue?style=flat-square&logo=windows" alt="Download .bat">
+</a>
+
 
 1. Click the "Download .bat" button above.
 2. Run the `setup.bat` file.
