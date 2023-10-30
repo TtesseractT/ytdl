@@ -23,13 +23,6 @@ This will automate the installation of Python, required packages, and set up the
 
 This Python script allows you to download audio or video from YouTube videos. It uses the `yt_dlp` library to handle the downloads.
 
-## Prerequisites
-
-Before using this script, make sure you have the following installed:
-
-- Python 3
-- `yt_dlp` library: You can install it using pip: `pip install yt-dlp`
-
 ## Usage
 
 Run the script from the command line using the following syntax:
